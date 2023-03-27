@@ -2,30 +2,6 @@
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
-
-- [📗 Table of Contents](#-table-of-contents)
-<<<<<<< HEAD
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-=======
-- [Todo List App ](#todo-list-app-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
->>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-<<<<<<< HEAD
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-=======
->>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
 - [📗 Table of Contents](#-table-of-contents)
 - [Todo List App ](#todo-list-app-)
   - [🛠 Built With ](#-built-with-)
@@ -41,7 +17,6 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
->>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -62,7 +37,6 @@
 </details>
 
 <!-- Features -->
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -91,11 +65,9 @@ In order to run this project you need:
  npm install
 ```
 
-
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 Example commands:
 
@@ -128,12 +100,10 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - [ ] **Navigation bar**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -158,15 +128,13 @@ I would like to thank Anita Sharma, a fellow Microverse student who helped me al
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#readme-top">back to top</a>)</p>
+#readme-top">back to top</a></p>
