@@ -136,5 +136,3 @@ I would like to thank Anita Sharma, a fellow Microverse student who helped me al
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-#readme-top">back to top</a></p>
