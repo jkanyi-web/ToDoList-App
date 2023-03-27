@@ -48,7 +48,7 @@
 
 # Todo List App <a name="about-project"></a>
 
-**Todo App** is a a small project to help master basic javascript concepts eg classes objects, arrays and dom manipulation and webpack.
+**Todo App** is a small project to help master basic javascript concepts eg classes objects, arrays and dom manipulation and webpack.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,7 +66,6 @@
 
 
 ### Key Features <a name="key-features"></a>
-> Describe between 1-3 key features of the application.
 
 - **Dynamic Creation**
 - **Webpack Configuration**
