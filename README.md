@@ -41,7 +41,6 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
-  - [📝 License ](#-license--1)
 >>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
 
 <!-- PROJECT DESCRIPTION -->
@@ -165,12 +164,6 @@ I would like to thank Anita Sharma, a fellow Microverse student who helped me al
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-
-<<<<<<< HEAD
-## 📝 License <a name="license"></a>
-=======
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
->>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
