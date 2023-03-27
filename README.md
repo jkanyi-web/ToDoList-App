@@ -26,17 +26,22 @@
     - [Deployment](#deployment)
 =======
 >>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
+- [📗 Table of Contents](#-table-of-contents)
+- [Todo List App ](#todo-list-app-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-<<<<<<< HEAD
-  - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
   - [📝 License ](#-license-)
   - [📝 License ](#-license--1)
-=======
-  - [📝 License ](#-license-)
 >>>>>>> eb03ad9da653a761d5930c4bca8f66d2e0c56146
 
 <!-- PROJECT DESCRIPTION -->
@@ -171,4 +176,5 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 #readme-top">back to top</a>)</p>
