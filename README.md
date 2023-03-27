@@ -118,7 +118,7 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project, please leave a star on it to encourage me to continue putting out fire projects
 
-<p align="right"><a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -128,13 +128,9 @@ I would like to thank Anita Sharma, a fellow Microverse student who helped me al
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-#readme-top">back to top</a></p>
