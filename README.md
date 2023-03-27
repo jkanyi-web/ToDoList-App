@@ -118,7 +118,7 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project, please leave a star on it to encourage me to continue putting out fire projects
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
