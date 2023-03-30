@@ -80,11 +80,6 @@ h3:hover {
   cursor: pointer;
 }
 
-/* .check:checked + .description {
-  text-decoration: line-through;
-  color: #999;
-} */
-
 #formUpdate {
   display: none;
 }
