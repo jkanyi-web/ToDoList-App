@@ -79,3 +79,12 @@ h3:hover {
 .task i {
   cursor: pointer;
 }
+
+/* .check:checked + .description {
+  text-decoration: line-through;
+  color: #999;
+} */
+
+#formUpdate {
+  display: none;
+}
