@@ -24,7 +24,7 @@ function addItem() {
   }
 
   if (item.description.trim().length > 0) {
-    item.index = itemArray.length; // set the new item's index property
+    item.index = itemArray.length;
     itemArray.push(item);
   }
 

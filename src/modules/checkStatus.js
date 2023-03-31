@@ -1,20 +1,11 @@
 /** @format */
 
-import editItem from './editItem.js';
-
 function checkStatus() {
   const items = JSON.parse(localStorage.getItem('items'));
   const checkBoxes = document.querySelectorAll('.check');
 
   checkBoxes.forEach((box, index) => {
     const paragraph = box.nextElementSibling;
-
-    if (
-      paragraph.contentEditable !== 'true'
-      && paragraph.textContent !== items[index].description
-    ) {
-      paragraph.textContent = items[index].description;
-    }
 
     box.checked = items[index].completed;
     if (items[index].completed) {
@@ -37,8 +28,6 @@ function checkStatus() {
       localStorage.setItem('items', JSON.stringify(items));
     });
   });
-
-  editItem();
 }
 
 export default checkStatus;

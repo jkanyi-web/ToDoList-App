@@ -7,7 +7,7 @@ function reOrder() {
     const items = JSON.parse(localStorage.getItem('items'));
 
     items.forEach((item, index) => {
-      item.index = index;
+      item.index = index + 1;
       list.push(item);
     });
 

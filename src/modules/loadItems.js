@@ -1,7 +1,7 @@
 /** @format */
 import checkStatus from './checkStatus.js';
 import deleteItem from './deleteItem.js';
-import editItem from './editItem.js';
+import edit from './editItem.js';
 
 function loadItems() {
   const listContainer = document.querySelector('.list');
@@ -25,13 +25,14 @@ function loadItems() {
     li.innerHTML = `
           <input class="check" id="${task.index}" type="checkbox" name="checkbox">
           <p class="description">${task.description}</p>
+          <i class="fa-solid fa-edit"></i>
           <i class="fa-solid fa-trash trash"></i>
   `;
     listContainer.append(li);
   });
   checkStatus();
-  editItem();
   deleteItem();
+  edit();
 }
 
 export default loadItems;

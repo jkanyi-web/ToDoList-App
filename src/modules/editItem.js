@@ -1,17 +1,18 @@
 /** @format */
+function edit() {
+  const editItems = document.querySelectorAll('.fa-edit');
 
-function editItem() {
-  const items = JSON.parse(localStorage.getItem('items'));
-  const paragraphs = document.querySelectorAll('.description');
-  paragraphs.forEach((paragraph, index) => {
-    paragraph.addEventListener('click', () => {
-      paragraph.contentEditable = true;
-      paragraph.addEventListener('blur', () => {
-        items[index].description = paragraph.textContent;
-        localStorage.setItem('items', JSON.stringify(items));
-      });
+  editItems.forEach((item, index) => {
+    item.addEventListener('click', () => {
+      document.getElementById('formCreate').style.display = 'none';
+      document.getElementById('formUpdate').style.display = 'block';
+      document.getElementById('updateId').setAttribute('elementid', index);
+
+      const previousSibling = item.previousElementSibling;
+
+      document.getElementById('updateId').value = previousSibling.textContent;
     });
   });
 }
 
-export default editItem;
+export default edit;
